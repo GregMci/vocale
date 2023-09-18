@@ -2,3 +2,4 @@ Type: Package
 Package: vocale
 Title: cheatsheets
 Version: 0.0.1
+RoxygenNote: 7.2.3
