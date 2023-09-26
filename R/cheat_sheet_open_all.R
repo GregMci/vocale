@@ -12,5 +12,5 @@ cheat_sheet_open_all <- function(){
   cheat_sheet_lines_arrows_segments()
   cheat_sheet_plot()
   cheat_sheet_points_symbols_characters()
-  cheat_sheet_title_mtext_text_subtitle_axislabels()
+  cheat_sheet_title_mtext_text_subtitle_axis_labels()
 }
