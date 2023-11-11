@@ -1,6 +1,6 @@
 
-<p align="right">
-  <img width="200"  src="https://github.com/GregMci/vocale/blob/master/vocale%20hex%20logo.png">
+<p align="left">
+  <img width="400"  src="https://github.com/GregMci/vocale/blob/master/vocale%20hex%20logo.png">
 </p>
 
 
