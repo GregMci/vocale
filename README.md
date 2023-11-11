@@ -1,10 +1,10 @@
 
 <p align="left">
   <img width="300"  src="https://github.com/GregMci/vocale/blob/master/vocale%20hex%20logo.png" style="display: inline-block; margin: 0" />
+*“…usually the first thing I would do when I run into a problem is to go online and just check what the internet has to say about it…”* Participant in [Szabluk, D. & McInerny, G. (2021). How do Data Scientists Create Data Visualisations? Workflows, Experiences and Perceptions when visualising data with R. Figshare.](https://doi.org/10.6084/m9.figshare.14112635.v1) 
 </p>
 
 
-*“…usually the first thing I would do when I run into a problem is to go online and just check what the internet has to say about it…”* Participant in [Szabluk, D. & McInerny, G. (2021). How do Data Scientists Create Data Visualisations? Workflows, Experiences and Perceptions when visualising data with R. Figshare.](https://doi.org/10.6084/m9.figshare.14112635.v1) 
 
 
 ## vocale - Visually Organised Cheat-sheets As Literal Explanations
