@@ -9,6 +9,10 @@ Participant in [Szabluk, D. & McInerny, G. (2021). How do Data Scientists Create
 
 
 
+
+
+
+
 ## vocale - Visually Organised Cheat-sheets As Literal Explanations
 
 The vocale R package provides quick access, from code & console, to visual documentation on graphical functions and graphical parameters. 
