@@ -1,10 +1,13 @@
-# vocale <a href="https://github.com/GregMci/vocale/"><img src="blob/master/vocale%20hex%20logo.png" align="right" height="138" alt=""/></a>
 
-*“…usually the first thing I would do when I run into a problem is to go online and just check what the internet has to say about it…”* 
+<p align="right">
+  <img width="200"  src="https://github.com/GregMci/vocale/blob/master/vocale%20hex%20logo.png">
+</p>
 
-Participant in [Szabluk, D. & McInerny, G. (2021). How do Data Scientists Create Data Visualisations? Workflows, Experiences and Perceptions when visualising data with R. Figshare.](https://doi.org/10.6084/m9.figshare.14112635.v1) 
 
-**Visually Organised Cheat-sheets As Literal Explanations**
+*“…usually the first thing I would do when I run into a problem is to go online and just check what the internet has to say about it…”* Participant in [Szabluk, D. & McInerny, G. (2021). How do Data Scientists Create Data Visualisations? Workflows, Experiences and Perceptions when visualising data with R. Figshare.](https://doi.org/10.6084/m9.figshare.14112635.v1) 
+
+
+## vocale - Visually Organised Cheat-sheets As Literal Explanations
 
 The vocale R package provides quick access, from code & console, to visual documentation on graphical functions and graphical parameters. 
 
