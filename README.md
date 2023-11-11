@@ -1,5 +1,5 @@
 
-<img width="300" align="right" src="https://github.com/GregMci/vocale/blob/master/vocale%20hex%20logo.png" />
+<img width="250" align="right" src="https://github.com/GregMci/vocale/blob/master/vocale%20hex%20logo.png" />
 
 
 *“…usually the first thing I would do when I run into a problem is to go online and just check what the internet has to say about it…”* 
