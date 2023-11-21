@@ -42,3 +42,8 @@ cheat_sheet_open_all()
 * Naming conventions for the functions were influenced by the auto-complete functions of Rstudio. As RStudio displays function names for any word after the initial ‘cheatsheet’ prefix and underscore, permitting multiple phrases to be included in the function name. This approach allows a small, but useful, search capability idiosyncratic to RStudio.
 * Each function opens one or more cheat sheets as a pdf in the users default viewer. This method is generally accessible, platform independent, zoomable, and does not alter the graphics device settings, state or appearance, allowing visualisation and query to be displayed simultaneously. 
 * Using pre-rendered pdfs, opened as pdf files in the users default viewer, makes use of highly optimised software and rendering solutions. The pdfs are stored in the data folder of the R package, with vocale functions as wrappers for the generic ‘system’ command (base). The directory/file path is concatenated from the package path retrieved using the ‘find.package’ function (base), and addition of the ‘data‘ folder path to the pdf name. This implementation could support opening web hosted documentation, or html files too.
+
+
+## Acknowledgments
+
+This work was initiated with funding from the Alan Turing Institute within the ‘Tools, Practices and Systems’ theme, under the EPSRC Cross-Discipline Interface Programme (grant number EP/I017909/1).
