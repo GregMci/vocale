@@ -1,6 +1,12 @@
-Type: Package
 Package: vocale
+Type: Package
 Title: vocale - Visually Organised Cheat-sheets As Literal Explanations
 Version: 0.0.1
-Authors@R: person("Greg", "McInerny", role = c("aut", "cre") )
+Author: person("Greg", "McInerny",  , "g.mcinerny@warwick.ac.uk",role = c("aut", "cre") )
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
 RoxygenNote: 7.2.3
