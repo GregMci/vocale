@@ -1,5 +1,6 @@
 Type: Package
 Package: vocale
-Title: cheatsheets
+Title: vocale - Visually Organised Cheat-sheets As Literal Explanations
 Version: 0.0.1
+Authors@R: person("Greg", "McInerny", role = c("aut", "cre") )
 RoxygenNote: 7.2.3
