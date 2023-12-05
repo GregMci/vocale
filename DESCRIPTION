@@ -2,7 +2,7 @@ Package: vocale
 Type: Package
 Title: vocale - Visually Organised Cheat-sheets As Literal Explanations
 Version: 0.0.1
-Authors@R: person( given = "Greg", middle = "J", family = "McInerny",  email = "g.mcinerny@warwick.ac.uk", role = c("aut", "cre") )
+Authors@R: person( given = "Greg", family = "McInerny", middle = "J", email = "g.mcinerny@warwick.ac.uk", role = c("aut", "cre") )
 URL: https://github.com/GregMci/vocale
 Maintainer: The package maintainer <g.mcinerny@warwick.ac.uk>
 Description: More about what it does (maybe more than one line)
