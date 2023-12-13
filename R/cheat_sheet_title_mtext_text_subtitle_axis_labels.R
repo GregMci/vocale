@@ -8,8 +8,7 @@
 #' cheat_sheet_title_mtext_text_subtitle_axis_labels()
 
 cheat_sheet_title_mtext_text_subtitle_axis_labels <- function(){
-  #pathToR <- paste( find.package("vocale") , "/data/", sep="" )
-  pathToR <- paste( find.package("vocale") , "/inst/extdata/", sep="" )
+  pathToR <- paste( find.package("vocale") , "/extdata/", sep="" )
   pathToFile <- paste( "\'open \"", pathToR, "vocale_cheat_sheet_test_text.pdf\"\' ", sep="" )
   system( eval( parse( text=pathToFile ) ) )
 }

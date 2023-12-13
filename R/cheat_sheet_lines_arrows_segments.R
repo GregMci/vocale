@@ -8,8 +8,7 @@
 #' cheat_sheet_lines_arrows_segments()
 
 cheat_sheet_lines_arrows_segments <- function(){
-  #pathToR <- paste( find.package("vocale") , "/data/", sep="" )
-  pathToR <- paste( find.package("vocale") , "/inst/extdata/", sep="" )
+  pathToR <- paste( find.package("vocale") , "/extdata/", sep="" )
   pathToFile <- paste( "\'open \"", pathToR, "vocale_cheat_sheet_test_lines.pdf\"\' ", sep="" )
   system( eval( parse( text=pathToFile ) ) )
 }
