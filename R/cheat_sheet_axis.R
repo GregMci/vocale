@@ -8,7 +8,8 @@
 #' cheat_sheet_axis()
 
 cheat_sheet_axis <- function(){
-  pathToR <- paste( find.package("vocale") , "/data/", sep="" )
+  #pathToR <- paste( find.package("vocale") , "/data/", sep="" )
+  pathToR <- paste( find.package("vocale") , "/man/pdf/", sep="" )
   pathToFile <- paste( "\'open \"", pathToR, "vocale_cheat_sheet_test_axis.pdf\"\' ", sep="" )
   system( eval( parse( text=pathToFile ) ) )
 }

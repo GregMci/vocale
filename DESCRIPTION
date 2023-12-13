@@ -6,7 +6,7 @@ Authors@R: person( given = "Greg", family = "McInerny", email = "g.mcinerny@warw
 URL: https://github.com/GregMci/vocale
 Maintainer: The package maintainer <g.mcinerny@warwick.ac.uk>
 Description: The vocale R package provides quick access, from code & console, to visual documentation on graphical functions and graphical parameters. 
-License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.2.3
+License: MIT + file LICENSE
